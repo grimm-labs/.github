@@ -1,6 +1,6 @@
-# 🌍 Grimm App - The Self-Custody Bitcoin Wallet for Africa  
+# 🌍 Grimm App - The Self-Custody Bitcoin Wallet
 
-**Grimm App** is a self-custody Bitcoin wallet designed to provide Africans with a simple, secure, and direct way to join the Bitcoin revolution. Our mission is to drive Bitcoin adoption across Africa, enabling users to manage their finances and pay for services with complete freedom, without intermediaries.  
+**Grimm App** is a self-custody Bitcoin wallet designed to provide a simple, secure, and direct way to join the Bitcoin revolution. Our mission is to drive Bitcoin adoption across the world, enabling users to manage their finances and pay for services with complete freedom, without intermediaries.  
 
 ---
 
@@ -44,4 +44,4 @@ Learn more about Grimm App and how to get started in our [Official FAQs](https:/
 
 ---
 
-**© 2025 Grimm App | Powered by the vision of a Bitcoin future for Africa.**  
+**© 2025 Grimm Labs**  
