@@ -7,7 +7,6 @@
 ### 🎯 Our Mission  
 
 Grimm App aims to:  
-- **Empower Africans** by giving them full control over their funds with a self-custody wallet.  
 - **Simplify Bitcoin adoption** by making it easy for users, even beginners, to onboard into the Bitcoin ecosystem.  
 - **Enable direct payments** for essential services, increasing Bitcoin’s utility in daily life.  
 
@@ -16,7 +15,6 @@ Grimm App aims to:
 ### 🚀 Key Features  
 
 1. **Self-Custody Wallet**: Securely store your Bitcoin without relying on third parties.  
-2. **Direct Payments**: Pay for services like bills, mobile top-ups, subscriptions, and more, directly in Bitcoin.  
 3. **User-Friendly Experience**: Intuitive interface designed for users with no prior cryptocurrency experience.  
 5. **Maximum Security**: Advanced encryption to protect your private keys and transactions.  
 
@@ -44,4 +42,4 @@ Learn more about Grimm App and how to get started in our [Official FAQs](https:/
 
 ---
 
-**© 2025 Grimm Labs**  
+**© 2025 Grimm Technologies SARL**  
