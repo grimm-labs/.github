@@ -1,4 +1,4 @@
-# 🌍 Grimm App - The Self-Custody Bitcoin Wallet
+# 🌍 Grimm App - Bitcoin Wallet
 
 **Grimm App** is a self-custody Bitcoin wallet designed to provide a simple, secure, and direct way to join the Bitcoin revolution. Our mission is to drive Bitcoin adoption across the world, enabling users to manage their finances and pay for services with complete freedom, without intermediaries.  
 
