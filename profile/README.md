@@ -1,42 +1,110 @@
-# 🌍 Grimm App - Bitcoin Wallet
+**Grimm Technologies SARL** is a Bitcoin infrastructure company building real-world financial tools that enable Bitcoin adoption across Africa and emerging markets.
 
-**Grimm App** is a self-custody Bitcoin wallet designed to provide a simple, secure, and direct way to join the Bitcoin revolution. Our mission is to drive Bitcoin adoption across the world, enabling users to manage their finances and pay for services with complete freedom, without intermediaries
+We design and develop products that connect Bitcoin (Lightning Network & on-chain) to everyday financial use cases such as payments, savings, and merchant transactions.
 
----
+Our ecosystem is composed of two core products:
 
-### Our Mission  
-
-Grimm App aims to:  
-- **Simplify Bitcoin adoption** by making it easy for users, even beginners, to onboard into the Bitcoin ecosystem.  
-- **Enable direct payments** for essential services, increasing Bitcoin’s utility in daily life.  
+* **Grimm App** → Bitcoin self-custody wallet
+* **Grimm Point** → Bitcoin utility payment & merchant infrastructure
 
 ---
 
-### Key Features  
+## Our Mission
 
-1. **Self-Custody Wallet**: Securely store your Bitcoin without relying on third parties.  
-3. **User-Friendly Experience**: Intuitive interface designed for users with no prior cryptocurrency experience.  
-5. **Maximum Security**: Advanced encryption to protect your private keys and transactions.  
+Our mission is to make Bitcoin a usable financial layer for everyday life.
 
----
+We aim to:
 
-### Join the Revolution  
-
-We believe in a financially empowered Africa through Bitcoin. Grimm App is a community-driven project, and your ideas and contributions are always welcome.  
-
-Contact us: [contact@usegrimm.app]  
+* Enable **real-world Bitcoin payments**
+* Build **simple and accessible financial infrastructure**
+* Promote **self-custody and financial sovereignty**
+* Bridge the gap between Bitcoin and local economies in Africa
+* Reduce dependence on traditional banking systems and intermediaries
 
 ---
 
-### 📖 Documentation  
+# Grimm App — Bitcoin Wallet
 
-Learn more about Grimm App and how to get started in our [Official FAQs](https://usegrimm.app/faqs).  
+**Grimm App** is a secure, self-custody Bitcoin wallet built for simplicity and real-world usage.
+
+It allows users to send, receive, and manage Bitcoin using both **Lightning Network** and **on-chain transactions**.
+
+[https://usegrimm.app](https://usegrimm.app)
 
 ---
 
-### 🌍 Follow Us  
+## Key Features
 
-- [Website](https://usegrimm.app)  
-- [Twitter](https://x.com/useGrimmApp)  
-- [LinkedIn](https://linkedin.com/company/usegrimmapp)  
+* **Self-custody wallet** (you control your private keys)
+* **Lightning Network payments** (fast & low fees)
+* **On-chain Bitcoin support**
+* **QR code payments**
+* **Balance & transaction tracking**
+* **Simple and intuitive interface**
+* Designed for users in emerging markets, especially Africa
 
+---
+
+# Grimm Point — Bitcoin Payment Infrastructure
+
+**Grimm Point** is a Bitcoin Lightning-based payment infrastructure designed to power real-world utility payments and merchant transactions.
+
+[https://grimmpoint.app](https://grimmpoint.app)
+
+---
+
+## What Grimm Point Enables
+
+Grimm Point allows users to pay for essential services using Bitcoin Lightning, including:
+
+* Mobile airtime top-ups
+* Internet data bundles
+* Electricity bills
+* TV subscriptions (Canal+, DSTV, StarTimes)
+* Utility payments (expanding coverage)
+* Merchant payments and future integrations
+
+---
+
+# Grimm Ecosystem
+
+Grimm Technologies is building a complete Bitcoin adoption stack:
+
+| Layer          | Product            | Role                       |
+| -------------- | ------------------ | -------------------------- |
+| User Wallet    | Grimm App          | Store & use Bitcoin        |
+| Payments Layer | Grimm Point        | Spend Bitcoin in real life |
+| Infrastructure | Grimm Technologies | Build Bitcoin rails        |
+
+Together, they form a closed loop:
+
+> Users hold Bitcoin → Users spend Bitcoin → Merchants accept Bitcoin → Circular Bitcoin economy
+
+---
+
+## Partnerships & Collaboration
+
+We are open to collaboration with:
+
+* Developers
+* Merchants
+* Financial institutions
+* Bitcoin ecosystem builders
+* Infrastructure partners
+
+📧 contact: [contact@usegrimm.app](mailto:contact@usegrimm.app)
+
+---
+
+## Company Links
+
+* Grimm App: [https://usegrimm.app](https://usegrimm.app)
+* Grimm Point: [https://grimmpoint.app](https://grimmpoint.app)
+* X (Twitter): [https://x.com/useGrimmApp](https://x.com/useGrimmApp)
+* LinkedIn: [https://linkedin.com/company/usegrimmapp](https://linkedin.com/company/usegrimmapp)
+
+---
+
+## One-line positioning
+
+**Grimm Technologies SARL builds Bitcoin infrastructure for real-world payments in Africa — from self-custody wallets (Grimm App) to Lightning-powered utility payments (Grimm Point).**
